@@ -2222,8 +2222,8 @@ section {
   border-radius: 20px;
   background-color: white;
   padding-bottom: 5%;
-  padding-left: 7%;
-  padding-right: 7%;
+  
+  
 }
 
 .child-active {
@@ -2231,6 +2231,6 @@ section {
 }
 
 .img-fluid-2 {
-  max-width: 75%;
+  max-width: 65%;
   height: auto;
 }
