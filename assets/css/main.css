@@ -2229,3 +2229,8 @@ section {
 .child-active {
   color: blue !important;
 }
+
+.img-fluid-2 {
+  max-width: 75%;
+  height: auto;
+}
